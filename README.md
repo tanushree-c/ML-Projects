@@ -9,10 +9,10 @@ This project focuses on building a binary classification model to distinguish be
 
  📁 Project Structure
 SONAR-Rock-vs-Mine-Prediction/
-│
-├── Copy_of_sonar_data.csv # Dataset file (e.g., sonar.csv)
-├── Rock-vs-Mine-Prediction.ipynb # Jupyter notebook for EDA & modeling
-├── README.md
-└── requirements.txt
+│  
+├── Copy_of_sonar_data.csv # Dataset file (e.g., sonar.csv)  
+├── Rock-vs-Mine-Prediction.ipynb # Jupyter notebook for EDA & modeling  
+├── README.md  
+└── requirements.txt  
 
 ---
